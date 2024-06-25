@@ -1,0 +1,2 @@
+# Tinymce
+Tinymce for Typecho
