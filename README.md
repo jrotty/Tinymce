@@ -1,2 +1,8 @@
 # Tinymce
-Tinymce for Typecho
+Tinymce是一款适用于Typecho的富文本编辑器插件
+
+基于Tinymce5.5.1开发，适用于typecho1.2.1版本
+
+插件是2020年开发的一直有些问题加上自己也不用就没再维护，2024年心血来潮重新维护了下，支持了对接了图片上传，适配了typecho原生附件上传功能
+
+随意维护！
