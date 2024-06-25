@@ -1,7 +1,7 @@
 <?php
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /**
- * Tinymce 编辑器 ，基于Tinymce5.5.1版本制作
+ * Tinymce 编辑器 ，基于Tinymce5.10.0版本制作
  * 
  * @package Tinymce
  * @author 泽泽社长
