@@ -5,7 +5,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 
  * @package Tinymce
  * @author 泽泽社长
- * @version 1.2.0
+ * @version 1.2.1
  * @link https://store.typecho.work
  */
 class Tinymce_Plugin implements Typecho_Plugin_Interface
