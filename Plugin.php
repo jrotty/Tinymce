@@ -145,7 +145,7 @@ class Tinymce_Plugin implements Typecho_Plugin_Interface
 	    min_height:500, //最小高度
 	    height: 800,  //高度
 	    toolbar_sticky:true,
-	    visualchars_default_state:true, //显示不可见字符
+	    visualchars_default_state:false, //显示不可见字符
 	    image_caption: true,
 	    paste_data_images: true,
 	    relative_urls : false,
